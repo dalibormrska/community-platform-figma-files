@@ -6,7 +6,7 @@ Provided by One Army in their documentation.
 
 | Name              | Description | Used |
 | :---------------- | :------ | :------ |
-| **CP/Settings, Gateekiping**        |   Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does.    | Mar24-Jun24 |
+| [**CP/Settings, Gateekiping**](https://community.preciousplastic.com/settings) |   Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does.    | Mar24-Jun24 |
 
 
 ## Files from Dalibor
