@@ -8,6 +8,7 @@ Provided by One Army in their documentation.
 | :---------------- | :------ | :------ |
 | [**ONE ARMY Community Platform PUBLIC V2.0**](https://www.figma.com/file/VC8FQTLpCteDHV3nRNyBdE/Community-Platform-PUBLIC-V2.0) | Official file linked in the [docs](https://docs.platform.onearmy.earth/Design/our-design-system). However, the components and the elements in there are outdated and incomplete.  | Around Dec23 |
 | [**Community Platform UX&UI**](https://www.figma.com/design/rLcVUiyqbz1vN5DrjHwaRh/Community-Platform-UI-UX?node-id=435-2583&t=Lizrhnu3Oa34brSs-1) | I suspect this is the V.1 of the file above and is quite similar. There is however more archive of old features.  | Before Dec23 |
+| [**ONE ARMY Community Platform Dave V2.1**](https://www.figma.com/design/6tvUqKLtjQpI4adQCxrWVe/ONE-ARMY-Community-Platform-Dave-V2.1?node-id=0-1&t=juqRkpZMqBS3yviJ-1) | Duplicate of the V2.0 file - There is a new tab with sitemap, ideation and Dave also crated icons in this file | 2024 - 2025 |
 
 
 ## Files from Dalibor
