@@ -16,8 +16,8 @@ Files I created from April 2024 onwards.
 
 | Name              | Description | Used |
 | :---------------- | :------ | :------ |
-| [**CP/Settings, Gateekiping**](https://community.preciousplastic.com/settings) |   Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does.    | Mar24-Jun24 |
-| [**CP/Settings, Gateekiping**](https://community.preciousplastic.com/settings) |   Etc etc.    | Mar24-Jun24 |
+| [**Etc etc**](https://community.preciousplastic.com/settings) |   Etc etc.    | Mar24-Jun24 |
+| [**Etc etc**](https://community.preciousplastic.com/settings) |   Etc etc.    | Mar24-Jun24 |
 
 
 ## Files from Others
@@ -25,5 +25,5 @@ Files that came mostly before April 2024.
 
 | Name              | Description | Used |
 | :---------------- | :------ | :------ |
-| [**Community Platform - Ben**](https://www.figma.com/design/N1O9TzrKijPaZfYXqBboC8/Community-Platform?m=auto&t=suXRrp3I0wBu6Rwr-6) |   Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does.    | Mar24-Jun24 |
-| [**create how to - upgrades**](https://www.figma.com/design/In2EriHbHulWjq6Cb1Mdfm/create-how-to---upgrades?m=auto&t=suXRrp3I0wBu6Rwr-6) |   Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does. Quite a long description about the file saying what it does.    | Mar24-Jun24 |
+| [**Community Platform - Ben**](https://www.figma.com/design/N1O9TzrKijPaZfYXqBboC8/Community-Platform?m=auto&t=suXRrp3I0wBu6Rwr-6) |   Description description    | Mar24-Jun24 |
+| [**create how to - upgrades**](https://www.figma.com/design/In2EriHbHulWjq6Cb1Mdfm/create-how-to---upgrades?m=auto&t=suXRrp3I0wBu6Rwr-6) |   Description description    | Mar24-Jun24 |
